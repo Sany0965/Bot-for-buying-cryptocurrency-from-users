@@ -53,7 +53,7 @@ Authorize(
 )
 ```
 **Инструкция по получению токенов**:  
-📌 [YooMoney API Guide](https://github.com/Sany0965/YooMoney)
+📌 [YooMoney API Guide](https://github.com/Sany0965/YooMoney-)
 
 ---
 

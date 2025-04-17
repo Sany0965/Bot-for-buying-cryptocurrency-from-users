@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ### Конфигурация
-1. Создайте `config.py` на основе примера:
+1. Заполните `config.py` на основе примера:
 ```python
 TELEGRAM_TOKEN = "ваш_токен_бота"
 CRYPTOBOT_API_TOKEN = "ваш_токен_cryptobot"

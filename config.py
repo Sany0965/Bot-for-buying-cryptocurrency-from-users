@@ -1,0 +1,7 @@
+TELEGRAM_TOKEN = 'сюда токен от тг'
+CRYPTOBOT_API_TOKEN = 'токен от приложения Cryptobot'
+YOUMONEY_OAUTH_TOKEN = 'токен юмани'
+DB_PATH = 'cryptobot.db'
+CRYPTBOT_CREATE_URL = 'https://pay.crypt.bot/api/createInvoice'
+CRYPTBOT_INVOICES_URL = 'https://pay.crypt.bot/api/getInvoices'
+CRYPTBOT_CHECK_URL = 'https://pay.crypt.bot/api/createCheck'
